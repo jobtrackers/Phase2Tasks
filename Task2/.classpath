@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-0.20.2-cdh3u2-ant.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-0.20.2-cdh3u2-core.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-0.20.2-cdh3u2-examples.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-0.20.2-cdh3u2-test.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-0.20.2-cdh3u2-tools.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-ant.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-ant-0.20.2-cdh3u2.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-core.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-core-0.20.2-cdh3u2.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-examples.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-examples-0.20.2-cdh3u2.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-test.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-test-0.20.2-cdh3u2.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-tools.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/hadoop-tools-0.20.2-cdh3u2.jar"/>
+	<classpathentry kind="lib" path="/training/lib/ant-contrib-1.0b3.jar"/>
+	<classpathentry kind="lib" path="/training/lib/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/training/lib/guava-r09-jarjar.jar"/>
+	<classpathentry kind="lib" path="/training/lib/hadoop-0.20.2-cdh3u3-ant.jar"/>
+	<classpathentry kind="lib" path="/training/lib/hadoop-0.20.2-cdh3u3-core-sources.jar"/>
+	<classpathentry kind="lib" path="/training/lib/hadoop-0.20.2-cdh3u3-core.jar" sourcepath="/training/lib/hadoop-0.20.2-cdh3u3-core-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://archive.cloudera.com/cdh/3/hadoop-0.20.2-cdh3u3/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/training/lib/hadoop-0.20.2-cdh3u3-examples-sources.jar"/>
+	<classpathentry kind="lib" path="/training/lib/hadoop-0.20.2-cdh3u3-examples.jar" sourcepath="/training/lib/hadoop-0.20.2-cdh3u3-examples-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://archive.cloudera.com/cdh/3/hadoop-0.20.2-cdh3u3/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/training/lib/hadoop-0.20.2-cdh3u3-test.jar"/>
+	<classpathentry kind="lib" path="/training/lib/hadoop-0.20.2-cdh3u3-tools-sources.jar"/>
+	<classpathentry kind="lib" path="/training/lib/hadoop-0.20.2-cdh3u3-tools.jar" sourcepath="/training/lib/hadoop-0.20.2-cdh3u3-tools-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://archive.cloudera.com/cdh/3/hadoop-0.20.2-cdh3u3/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/training/lib/hadoop-fairscheduler-0.20.2-cdh3u3.jar"/>
+	<classpathentry kind="lib" path="/training/lib/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="/training/lib/tt-instrumentation-3.7.4.jar"/>
+	<classpathentry kind="lib" path="/training/lib/xmlenc-0.52.jar"/>
+	<classpathentry kind="lib" path="/home/training/Desktop/Bigdata/jdom/jdom-2.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/training/Desktop/Bigdata/jdom/jdom-2.0.4-contrib.jar"/>
+	<classpathentry kind="lib" path="/home/training/Desktop/Bigdata/jdom/jdom-2.0.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/training/Desktop/Bigdata/jdom/jdom-2.0.4-junit.jar"/>
+	<classpathentry kind="lib" path="/home/training/Desktop/Bigdata/jdom/jdom-2.0.4-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop/lib/ant-contrib-1.0b3.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/lib/commons-daemon-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/lib/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/lib/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/lib/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/lib/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/lib/hadoop-fairscheduler-0.20.2-cdh3u2.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-0.20/lib/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
